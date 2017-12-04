@@ -1,0 +1,9 @@
+﻿  Properties.cpp
+  ConfigOperation.cpp
+  正在生成代码...
+  正在编译...
+  Regrex.cpp
+d:\cproject\configoperation2\configoperation2\regrex.cpp(50): warning C4101: “type”: 未引用的局部变量
+  正在生成代码...
+  ConfigOperation2.vcxproj -> D:\cProject\ConfigOperation2\Debug\ConfigOperation2.exe
+  ConfigOperation2.vcxproj -> D:\cProject\ConfigOperation2\Debug\ConfigOperation2.pdb (Partial PDB)

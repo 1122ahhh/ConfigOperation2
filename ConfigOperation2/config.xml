@@ -1,0 +1,10 @@
+<config>
+<port>9090</port>
+<version_tool>1.3.1</version_tool>
+<username>root</username>
+<password>root123456</password>
+<host>192.168.1.100</host>
+<connectionMax>200</connectionMax>
+<version>1.2.3</version>
+<pool_connection_countxx>2000</pool_connection_countxx>
+</config>
